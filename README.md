@@ -1,4 +1,4 @@
-## Hello world
+alphy.tech
 
 <!--
 **nanohit/nanohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
