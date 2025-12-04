@@ -1,8 +1,6 @@
-Building:
+### Building:
 - **[Alphy](https://alphy.tech)** – mind-mapping tool, ML powered literature search and download engine and a social forum, integrated into one.
-
 - **Prplx-overlay** – Invisible LLM powered Electron overlay that sees screen, accepts text/voice inputs, and orchestrates web scraping to answer anything in real-time. 
-
 - **[Nyx](https://t.me/NyxGf_Bot)** - Gemini 2.5 powered Telegram bot with emotional tone analysis, agentic awake message management system, memory extraction, voice message recognition, agentic context-based sticker sending, and complex context management. 271 DAU peak.
 
 
