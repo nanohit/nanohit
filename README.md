@@ -1,3 +1,5 @@
+### TS, Python, SQL, Automation. 
+
 ### Building:
 - **[Alphy](https://alphy.tech)** – mind-mapping tool, ML powered literature search and download engine and a social forum, integrated into one.
 
