@@ -1,1 +1,1 @@
-TS, Python, SQL, Automation.
+MTS @nousresearch.com
